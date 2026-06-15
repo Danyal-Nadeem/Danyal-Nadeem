@@ -1,24 +1,33 @@
 <h1 align="center">Hi 👋, I'm Danyal Ahmed</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Software+Engineer;MERN+Stack+Developer;AI+%2F+ML+Explorer;Building+Scalable+Systems" />
+  <img src="https://komarev.com/ghpvc/?username=Danyal-Nadeem&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Engineer;MERN+Stack+Developer;AI%2FML+Engineer;Computer+Vision+Developer;Semantic+Search+%26+RAG+Systems;Building+Scalable+Systems" />
 </p>
 
 ---
 
 ## 💫 About Me
-I’m a passionate Software Engineer from Lahore, Pakistan, focused on building scalable and high-performance web applications.
 
-- 🔭 Working on: Scalable MERN apps & AI systems (NLP, Semantic Search)  
-- 🤝 Open to: Web apps, AI tools & open-source collaboration  
-- 🆘 Need help with: System Design & Advanced Backend  
-- 🌱 Learning: Next.js, Distributed Systems, Vector Search (Qdrant)  
-- 💬 Ask me about: Full-stack, APIs, Databases, AI integration  
-- ⚡ Fun fact: I build optimized & production-ready systems  
+I’m a passionate Software Engineer from Lahore, Pakistan, focused on building scalable and high-performance web applications, AI-powered systems, and intelligent developer tools.
+
+* 🔭 Working on: Scalable MERN apps, Semantic Search & AI Systems
+* 🤖 Experienced with: Machine Learning, Computer Vision & Vector Databases
+* 🧠 Built Semantic Code Search (Qdrant + Gemini + FastAPI)
+* 👥 Developed HMSTUNet Crowd Counting System using Deep Learning
+* 🤝 Open to: Web Apps, AI Tools & Open Source Collaboration
+* 🆘 Need help with: Advanced System Design & Distributed Systems
+* 🌱 Learning: Next.js, Distributed Systems, MLOps & Retrieval Systems
+* 💬 Ask me about: Full Stack Development, APIs, Databases, AI Integration & Vector Search
+* ⚡ Fun fact: I enjoy turning complex ideas into production-ready software
 
 ---
 
 ## 🌐 Socials
+
 <p>
 <a href="https://www.linkedin.com/in/danyal-ahmed-3a4038382/">
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -34,6 +43,7 @@ I’m a passionate Software Engineer from Lahore, Pakistan, focused on building 
 ---
 
 ## 🌐 Web Development
+
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
@@ -49,6 +59,7 @@ I’m a passionate Software Engineer from Lahore, Pakistan, focused on building 
 ---
 
 ## 🤖 AI/ML & Data Science
+
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch"/>
@@ -57,7 +68,25 @@ I’m a passionate Software Engineer from Lahore, Pakistan, focused on building 
 
 ---
 
+## 🧠 AI Engineering & LLMs
+
+<p>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google"/>
+<img src="https://img.shields.io/badge/NLP-4CAF50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer_Vision-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep_Learning-8E24AA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vector_Search-00BCD4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-009688?style=for-the-badge"/>
+</p>
+
+---
+
 ## ☁️ DevOps
+
 <p>
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel"/>
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render"/>
@@ -70,6 +99,7 @@ I’m a passionate Software Engineer from Lahore, Pakistan, focused on building 
 ---
 
 ## 🗄️ Databases
+
 <p>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
@@ -78,9 +108,64 @@ I’m a passionate Software Engineer from Lahore, Pakistan, focused on building 
 
 ---
 
+## 🚀 Featured Projects
+
+### 🔍 Semantic Code Search (SCS Pro)
+
+* AI-powered code intelligence platform
+* FastAPI + React + Qdrant + Gemini AI
+* Semantic Vector Search & Hybrid Ranking
+* Repository Ingestion & AI-assisted Change Planning
+* JWT Authentication & Analytics Dashboard
+
+### 👥 HMSTUNet Crowd Counting
+
+* Deep Learning & Computer Vision Project
+* Crowd Density Estimation from Single Images
+* Hybrid Multi-Scale Transformer U-Net Architecture
+* PyTorch-based Training & Evaluation Pipeline
+
+### 🌐 Full Stack MERN Applications
+
+* Authentication & Authorization Systems
+* REST APIs & Database Integration
+* Responsive UI/UX Development
+* Production-ready Full Stack Solutions
+
+---
+
+## 🏆 Achievements
+
+* 🚀 Built Semantic Code Search using Qdrant, FastAPI & Gemini AI
+* 👥 Developed HMSTUNet Crowd Counting System using Deep Learning
+* 🌐 Built Multiple Full Stack MERN Applications
+* 🤖 Experienced with AI Integration, Vector Search & RAG Systems
+* 📚 Strong Foundation in Data Structures & Algorithms
+
+---
+
 ## 📊 GitHub Stats
-![](https://github-readme-stats.shion.dev/api?username=Danyal-Nadeem&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-![](https://streak-stats.demolab.com/?user=Danyal-Nadeem&theme=dark&hide_border=false)
+![](https://github-readme-stats.shion.dev/api?username=Danyal-Nadeem\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true)
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Danyal-Nadeem&theme=dark&layout=compact)
+![](https://streak-stats.demolab.com/?user=Danyal-Nadeem\&theme=dark\&hide_border=false)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Danyal-Nadeem\&theme=dark\&layout=compact)
+
+---
+
+## ☕ Coding Mode
+
+<p align="center">
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="500"/>
+</p>
+
+---
+
+## ✨ Quote
+
+<p align="center">
+
+<i>"Code is not just about solving problems; it's about building the future one commit at a time."</i>
+
+</p>
