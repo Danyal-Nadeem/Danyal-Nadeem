@@ -147,17 +147,23 @@ I’m a passionate Software Engineer from Lahore, Pakistan, focused on building 
 
 ## 💬 Quote
 
-<!-- ANIMATED WORKING IMAGE -->
+<!-- NEW ANIMATED PNG (DIFFERENT) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260"/>
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="240"/>
 </p>
 
-<p align="center" style="font-size:22px; color:#00E5FF;">
-  <b>"The best way to predict the future is to create it."</b>
+<!-- BIGGER + NEW COLOR QUOTE -->
+<p align="center" style="font-size:26px;">
+  <b>
+    <span style="color:#FFD166;">
+      "The future belongs to those who believe in the beauty of their dreams."
+    </span>
+  </b>
 </p>
 
+<!-- AUTHOR RIGHT SIDE -->
 <p align="center">
-  <span style="color:#FF4D6D;">
-    — Peter Drucker
+  <span style="color:#06D6A0; font-size:16px;">
+    — Eleanor Roosevelt
   </span>
 </p>
