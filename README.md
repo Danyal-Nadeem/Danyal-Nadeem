@@ -147,16 +147,17 @@ I’m a passionate Software Engineer from Lahore, Pakistan, focused on building 
 
 ## 💬 Quote
 
+<!-- ANIMATED WORKING IMAGE -->
 <p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260"/>
+</p>
 
-<span style="font-size:20px; color:#00F7FF;">
-<b>"First, solve the problem. Then, write the code."</b>
-</span>
+<p align="center" style="font-size:22px; color:#00E5FF;">
+  <b>"The best way to predict the future is to create it."</b>
+</p>
 
-<br><br>
-
-<span style="font-size:16px; color:#FF4D6D;">
-— John Johnson
-</span>
-
+<p align="center">
+  <span style="color:#FF4D6D;">
+    — Peter Drucker
+  </span>
 </p>
