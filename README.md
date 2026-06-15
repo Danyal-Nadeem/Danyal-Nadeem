@@ -1,10 +1,11 @@
-<h1 align="center">Hi 👋, I'm Danyal Ahmed</h1>
-
-<!-- PROFILE VIEWS (TOP LEFT FIX) -->
+<!-- PROFILE VIEWS (ABSOLUTE TOP) -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Danyal-Nadeem&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
 </p>
 
+<h1 align="center">Hi 👋, I'm Danyal Ahmed</h1>
+
+<!-- TYPING HEADER -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Engineer;MERN+Stack+Developer;AI%2FML+Engineer;Computer+Vision+Developer;Semantic+Search+%26+RAG+Systems;Building+Scalable+Systems" />
 </p>
@@ -149,13 +150,13 @@ I’m a passionate Software Engineer from Lahore, Pakistan, focused on building 
 <p align="center">
 
 <span style="font-size:20px; color:#00F7FF;">
-<b>"Code is not just about solving problems; it's about building the future one commit at a time."</b>
+<b>"First, solve the problem. Then, write the code."</b>
 </span>
 
 <br><br>
 
 <span style="font-size:16px; color:#FF4D6D;">
-— Danyal Ahmed
+— John Johnson
 </span>
 
 </p>
