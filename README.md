@@ -7,7 +7,7 @@
 
 <!-- TYPING HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Engineer;MERN+Stack+Developer;AI%2FML+Engineer;Computer+Vision+Developer;Semantic+Search+%26+RAG+Systems;Building+Scalable+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Engineer;MERN+Stack+Developer;AI%2FML+Engineer;Computer+Vision+Developer;Semantic+Search+%26+RAG+Systems;Building+Scalable+Systems" />
 </p>
 
 ---
@@ -153,9 +153,9 @@ I’m a passionate Software Engineer from Lahore, Pakistan, focused on building 
 </p>
 
 <!-- BIGGER + NEW COLOR QUOTE -->
-<p align="center" style="font-size:26px;">
+<p align="center" style="font-size:34px;">
   <b>
-    <span style="color:#FFD166;">
+    <span style="color:#FF4D6D;">
       "The future belongs to those who believe in the beauty of their dreams."
     </span>
   </b>
