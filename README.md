@@ -154,7 +154,7 @@ I’m a passionate Software Engineer from Lahore, Pakistan, focused on building 
 
 <!-- BIGGER + NEW COLOR QUOTE (rendered as SVG image so GitHub doesn't strip the styling) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=1&pause=100000&color=FF4D6D&center=true&vCenter=true&width=900&height=70&lines=%22The+future+belongs+to+those+who+believe+in+the+beauty+of+their+dreams.%22" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=1&pause=100000&color=4FC3F7&center=true&vCenter=true&width=1100&height=50&lines=%22The+future+belongs+to+those+who+believe+in+the+beauty+of+their+dreams.%22" />
 </p>
 
 <!-- AUTHOR RIGHT SIDE -->
