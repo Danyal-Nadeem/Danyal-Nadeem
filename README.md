@@ -152,18 +152,12 @@ I’m a passionate Software Engineer from Lahore, Pakistan, focused on building 
   <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="240"/>
 </p>
 
-<!-- BIGGER + NEW COLOR QUOTE -->
-<p align="center" style="font-size:34px;">
-  <b>
-    <span style="color:#FF4D6D;">
-      "The future belongs to those who believe in the beauty of their dreams."
-    </span>
-  </b>
+<!-- BIGGER + NEW COLOR QUOTE (rendered as SVG image so GitHub doesn't strip the styling) -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=1&pause=100000&color=FF4D6D&center=true&vCenter=true&width=900&height=70&lines=%22The+future+belongs+to+those+who+believe+in+the+beauty+of+their+dreams.%22" />
 </p>
 
 <!-- AUTHOR RIGHT SIDE -->
 <p align="center">
-  <span style="color:#06D6A0; font-size:16px;">
-    — Eleanor Roosevelt
-  </span>
+  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=1&pause=100000&color=06D6A0&center=true&vCenter=true&width=400&height=40&lines=—+Eleanor+Roosevelt" />
 </p>
