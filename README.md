@@ -1,6 +1,6 @@
 <!-- PROFILE VIEWS (ABSOLUTE TOP) -->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Danyal-Nadeem&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+<img src="https://visitcount.itsvg.in/api?id=Danyal-Nadeem&label=Profile%20Views&color=1&icon=0&pretty=true" alt="profile views"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Danyal Ahmed</h1>
