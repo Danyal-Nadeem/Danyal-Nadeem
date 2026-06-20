@@ -123,7 +123,7 @@ I'm a passionate Software Engineer from Lahore, Pakistan, focused on building sc
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1&pause=100000&color=4FC3F7&center=true&vCenter=true&width=900&multiline=true&height=60&lines=%22The+future+belongs+to+those+who+believe+in+the+beauty+of+their+dreams.%22" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1&pause=100000&color=4FC3F7&center=true&vCenter=true&multiline=true&width=1100&height=60&lines=%22The+future+belongs+to+those+who+believe+in+the+beauty+of+their+dreams.%22" />
 </p>
 
 <p align="center">
