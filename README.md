@@ -1,4 +1,4 @@
-<img src="https://komarev.com/ghpvc/?username=Danyal-Nadeem&label=Profile%20Views&color=0e75b6&style=for-the-badge&base=1000" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=Danyal-Nadeem&label=Profile%20Views&color=0e75b6&style=for-the-badge&base=0" alt="profile views" />
 <h1 align="center">Hi 👋, I'm Danyal Ahmed</h1>
 
 <!-- TYPING HEADER -->
