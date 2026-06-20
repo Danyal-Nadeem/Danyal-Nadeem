@@ -123,9 +123,9 @@ I'm a passionate Software Engineer from Lahore, Pakistan, focused on building sc
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=1&pause=100000&color=4FC3F7&center=true&vCenter=true&width=1200&height=65&lines=%22The+future+belongs+to+those+who+believe+in+the+beauty+of+their+dreams.%22" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1&pause=100000&color=4FC3F7&center=true&vCenter=true&width=900&multiline=true&height=60&lines=%22The+future+belongs+to+those+who+believe+in+the+beauty+of+their+dreams.%22" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=1&pause=100000&color=06D6A0&center=true&vCenter=true&width=400&height=40&lines=—+Eleanor+Roosevelt" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=1&pause=100000&color=06D6A0&center=true&vCenter=true&width=400&height=45&lines=—+Eleanor+Roosevelt" />
 </p>
