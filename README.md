@@ -112,7 +112,7 @@ I'm a passionate Software Engineer from Lahore, Pakistan, focused on building sc
 
 ![](https://streak-stats.demolab.com/?user=Danyal-Nadeem&theme=dark&hide_border=false)
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Danyal-Nadeem&theme=dark&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Danyal-Nadeem&theme=dark&layout=compact&exclude_repo=School-management-system-OOP-Concepts-,Candy-crush-,Tic-Tac-Toe-Game-,Flying-Bird-Game-by-Using-Assembly-Language)
 
 ---
 
@@ -125,5 +125,5 @@ I'm a passionate Software Engineer from Lahore, Pakistan, focused on building sc
 <p align="center">
   <i>"The future belongs to those who believe in the beauty of their dreams."</i>
   <br/>
-  <b>— Eleanor Roosevelt</b>
+  <b>~ Eleanor Roosevelt</b>
 </p>
