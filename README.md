@@ -125,15 +125,21 @@ I'm a passionate **Full-Stack & AI/ML Developer** from Lahore, Pakistan — buil
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Danyal-Nadeem&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Danyal-Nadeem&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danyal-Nadeem&theme=tokyonight&hide_border=true&layout=compact&exclude_repo=School-management-system-OOP-Concepts-,Candy-crush-,Tic-Tac-Toe-Game-,Flying-Bird-Game-by-Using-Assembly-Language" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Danyal-Nadeem&theme=dark&hide_border=false" />
+  <img src="https://streak-stats.demolab.com/?user=Danyal-Nadeem&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danyal-Nadeem&theme=dark&layout=compact&exclude_repo=School-management-system-OOP-Concepts-,Candy-crush-,Tic-Tac-Toe-Game-,Flying-Bird-Game-by-Using-Assembly-Language" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Danyal-Nadeem&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Danyal-Nadeem&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
