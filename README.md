@@ -125,15 +125,16 @@ I'm a passionate **Full-Stack & AI/ML Developer** from Lahore, Pakistan — buil
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Danyal-Nadeem&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danyal-Nadeem&theme=tokyonight&hide_border=true&layout=compact&exclude_repo=School-management-system-OOP-Concepts-,Candy-crush-,Tic-Tac-Toe-Game-,Flying-Bird-Game-by-Using-Assembly-Language" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Danyal-Nadeem&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danyal-Nadeem&theme=tokyonight&hide_border=true&layout=compact&exclude_repo=School-management-system-OOP-Concepts-,Candy-crush-,Tic-Tac-Toe-Game-,Flying-Bird-Game-by-Using-Assembly-Language" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Danyal-Nadeem&theme=tokyonight&hide_border=true" />
 </p>
-
 ---
 
 ## 💬 Quote
