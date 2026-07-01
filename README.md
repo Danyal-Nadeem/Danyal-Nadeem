@@ -129,11 +129,11 @@ I'm a passionate **Full-Stack & AI/ML Developer** from Lahore, Pakistan — buil
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danyal-Nadeem&theme=tokyonight&hide_border=true&layout=compact&exclude_repo=School-management-system-OOP-Concepts-,Candy-crush-,Tic-Tac-Toe-Game-,Flying-Bird-Game-by-Using-Assembly-Language" />
+  <img src="https://streak-stats.demolab.com/?user=Danyal-Nadeem&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Danyal-Nadeem&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danyal-Nadeem&theme=tokyonight&hide_border=true&layout=compact&exclude_repo=School-management-system-OOP-Concepts-,Candy-crush-,Tic-Tac-Toe-Game-,Flying-Bird-Game-by-Using-Assembly-Language" />
 </p>
 ---
 
