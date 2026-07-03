@@ -120,6 +120,7 @@ I'm a passionate **Full-Stack & AI/ML Developer** from Lahore, Pakistan — buil
 <img src="https://img.shields.io/badge/GitHub%20Actions-2671E5?style=for-the-badge&logo=githubactions"/>
 </p>
 
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,js,ts,html,css,react,nextjs,tailwind,nodejs,express,fastapi,redis,pytorch,opencv,mongodb,postgres,mysql,vercel,netlify,docker,git,github,githubactions" />
 </p>
@@ -134,9 +135,7 @@ I'm a passionate **Full-Stack & AI/ML Developer** from Lahore, Pakistan — buil
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Danyal-Nadeem&theme=dark&layout=compact&exclude_repo=School-management-system-OOP-Concepts-,Candy-crush-,Tic-Tac-Toe-Game-,Flying-Bird-Game-by-Using-Assembly-Language)
 ---
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,html,css,react,nextjs,tailwind,nodejs,express,fastapi,redis,pytorch,opencv,mongodb,postgres,mysql,vercel,netlify,docker,git,github,githubactions" />
-</p>
+
 
 ## 💬 Quote
 
