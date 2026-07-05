@@ -123,7 +123,6 @@ I'm a passionate **Full-Stack & AI/ML Developer** from Lahore, Pakistan — buil
 
 
 ## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=Danyal-Nadeem&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
 </p>
@@ -133,7 +132,7 @@ I'm a passionate **Full-Stack & AI/ML Developer** from Lahore, Pakistan — buil
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danyal-Nadeem&theme=dark&layout=compact&exclude_repo=School-management-system-OOP-Concepts-,Candy-crush-,Tic-Tac-Toe-Game-,Flying-Bird-Game-by-Using-Assembly-Language" />
+  <img src="https://github-readme-stats-pi-two-55.vercel.app/api/top-langs/?username=Danyal-Nadeem&theme=dark&layout=compact&exclude_repo=School-management-system-OOP-Concepts-,Candy-crush-,Tic-Tac-Toe-Game-,Flying-Bird-Game-by-Using-Assembly-Language" />
 </p>
 
 ## 💬 Quote
