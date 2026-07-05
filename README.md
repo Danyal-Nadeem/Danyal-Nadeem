@@ -125,13 +125,17 @@ I'm a passionate **Full-Stack & AI/ML Developer** from Lahore, Pakistan — buil
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=Danyal-Nadeem&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=Danyal-Nadeem&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
+</p>
 
-![](https://streak-stats.demolab.com/?user=Danyal-Nadeem&theme=dark&hide_border=false)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Danyal-Nadeem&theme=dark&hide_border=false" width="48%" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Danyal-Nadeem&theme=dark&layout=compact&exclude_repo=School-management-system-OOP-Concepts-,Candy-crush-,Tic-Tac-Toe-Game-,Flying-Bird-Game-by-Using-Assembly-Language)
----
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danyal-Nadeem&theme=dark&layout=compact&exclude_repo=School-management-system-OOP-Concepts-,Candy-crush-,Tic-Tac-Toe-Game-,Flying-Bird-Game-by-Using-Assembly-Language" width="48%" />
+</p>
 
 ## 💬 Quote
 
