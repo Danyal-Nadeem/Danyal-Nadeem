@@ -122,8 +122,6 @@ I'm a passionate **Full-Stack & AI/ML Developer** from Lahore, Pakistan — buil
 
 
 
-
-## 📊 GitHub Stats
 ## 📊 GitHub Stats
 
 <p align="center">
