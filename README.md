@@ -7,11 +7,11 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/danyal-ahmed-3a4038382/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="48" /></a>
+  <a href="https://www.linkedin.com/in/danyal-ahmed-3a4038382/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="36" /></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/danyal12534/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="48" /></a>
+  <a href="https://www.instagram.com/danyal12534/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="36" /></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:danyalnadeem288@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" /></a>
+  <a href="mailto:danyalnadeem288@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="36" /></a>
 </p>
 
 ## 💫 About Me
