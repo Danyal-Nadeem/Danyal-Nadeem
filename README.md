@@ -121,10 +121,6 @@ I'm a passionate **Full-Stack & AI/ML Developer** from Lahore, Pakistan — buil
 </p>
 
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,html,css,react,nextjs,tailwind,nodejs,express,fastapi,redis,pytorch,opencv,mongodb,postgres,mysql,vercel,netlify,docker,git,github,githubactions" />
-</p>
----
 
 
 ## 📊 GitHub Stats
