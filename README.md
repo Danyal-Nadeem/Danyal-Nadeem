@@ -28,19 +28,18 @@ I'm a passionate **Full-Stack & AI/ML Developer** from Lahore, Pakistan — buil
 - ⚡ Fun fact: I enjoy turning complex ideas into production-ready software
 
 ---
-
 ## 🌐 Web Development
 
 <p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
-<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=plastic&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next.js-6366F1?style=plastic&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=plastic&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-8B5CF6?style=plastic&logo=express&logoColor=white"/>
 </p>
 
 ---
@@ -48,12 +47,12 @@ I'm a passionate **Full-Stack & AI/ML Developer** from Lahore, Pakistan — buil
 ## ⚙️ Backend & APIs
 
 <p>
-<img src="https://img.shields.io/badge/FastAPI-059669?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
-<img src="https://img.shields.io/badge/Celery-37b24d?style=for-the-badge&logo=celery&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_APIs-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens"/>
+<img src="https://img.shields.io/badge/FastAPI-10B981?style=plastic&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=yellow"/>
+<img src="https://img.shields.io/badge/Celery-37B24D?style=plastic&logo=celery&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=plastic&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_APIs-EC4899?style=plastic"/>
+<img src="https://img.shields.io/badge/JWT-F59E0B?style=plastic&logo=jsonwebtokens&logoColor=white"/>
 </p>
 
 ---
@@ -61,14 +60,14 @@ I'm a passionate **Full-Stack & AI/ML Developer** from Lahore, Pakistan — buil
 ## 🤖 AI/ML & Data Science
 
 <p>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv"/>
-<img src="https://img.shields.io/badge/Deep_Learning-8E24AA?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Computer_Vision-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NLP-4CAF50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=plastic&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-130654?style=plastic&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-4D77CF?style=plastic&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-27338E?style=plastic&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Deep_Learning-8E24AA?style=plastic"/>
+<img src="https://img.shields.io/badge/Computer_Vision-F97316?style=plastic"/>
+<img src="https://img.shields.io/badge/NLP-22C55E?style=plastic"/>
 </p>
 
 ---
@@ -76,14 +75,14 @@ I'm a passionate **Full-Stack & AI/ML Developer** from Lahore, Pakistan — buil
 ## 🧠 AI Engineering & LLMs
 
 <p>
-<img src="https://img.shields.io/badge/Anthropic_Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google"/>
-<img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vector_Search-00BCD4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-009688?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GraphRAG-6d28d9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Anthropic_Claude-D97757?style=plastic&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=plastic&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=plastic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Neo4j-018BFF?style=plastic&logo=neo4j&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vector_Search-06B6D4?style=plastic"/>
+<img src="https://img.shields.io/badge/RAG-14B8A6?style=plastic"/>
+<img src="https://img.shields.io/badge/GraphRAG-7C3AED?style=plastic"/>
+<img src="https://img.shields.io/badge/LangChain-1C1C1C?style=plastic&logoColor=white"/>
 </p>
 
 ---
@@ -91,12 +90,12 @@ I'm a passionate **Full-Stack & AI/ML Developer** from Lahore, Pakistan — buil
 ## 🗄️ Databases
 
 <p>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
-<img src="https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB_Atlas-13AA52?style=plastic&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=plastic&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=plastic&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL%20Server-A91D22?style=plastic&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
 ---
@@ -104,16 +103,15 @@ I'm a passionate **Full-Stack & AI/ML Developer** from Lahore, Pakistan — buil
 ## ☁️ DevOps & Deployment
 
 <p>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel"/>
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render"/>
-<img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"/>
-<img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/badge/GitHub%20Actions-2671E5?style=for-the-badge&logo=githubactions"/>
+<img src="https://img.shields.io/badge/Vercel-3B82F6?style=plastic&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=plastic&logo=render&logoColor=white"/>
+<img src="https://img.shields.io/badge/Railway-8B5CF6?style=plastic&logo=railway&logoColor=white"/>
+<img src="https://img.shields.io/badge/Netlify-14B8A6?style=plastic&logo=netlify&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-6E5494?style=plastic&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2671E5?style=plastic&logo=githubactions&logoColor=white"/>
 </p>
-
 
 
 ## 📊 GitHub Stats
