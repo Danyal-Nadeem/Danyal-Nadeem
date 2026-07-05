@@ -124,11 +124,11 @@ I'm a passionate **Full-Stack & AI/ML Developer** from Lahore, Pakistan — buil
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Danyal-Nadeem&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Danyal-Nadeem&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Danyal-Nadeem&theme=dracula&hide_border=false" />
+  <img src="https://streak-stats.demolab.com/?user=Danyal-Nadeem&theme=tokyonight&hide_border=false" />
 </p>
 
 <p align="center">
