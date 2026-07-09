@@ -14,6 +14,8 @@
   <a href="mailto:danyalnadeem288@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="36" /></a>
 </p>
 
+
+
 ## 💫 About Me
 
 I'm a passionate **Full-Stack & AI/ML Developer** from Lahore, Pakistan — building scalable web applications, AI-powered platforms, and intelligent developer tools.
@@ -23,13 +25,10 @@ I'm a passionate **Full-Stack & AI/ML Developer** from Lahore, Pakistan — buil
 - 🌱 Learning: Distributed Systems, MLOps & Advanced AI pipelines
 - 💬 Ask me about: Full Stack Dev, APIs, AI Integration & LLMs
 - 🤝 Open to: Web Apps, AI Tools & Open Source Collaboration
-- ⚡ Fun fact: I enjoy turning complex ideas into production-ready software
+- ⚡ Fun fact: I enjoy turning complex ideas into production ready software
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=60&section=header&text=🌐%20Web%20Development&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
-</p>
+## 🌐 Web Development
 
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white"/>
@@ -43,9 +42,9 @@ I'm a passionate **Full-Stack & AI/ML Developer** from Lahore, Pakistan — buil
 <img src="https://img.shields.io/badge/Express-8B5CF6?style=plastic&logo=express&logoColor=white"/>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=60&section=header&text=⚙️%20Backend%20%26%20APIs&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
-</p>
+---
+
+## ⚙️ Backend & APIs
 
 <p>
 <img src="https://img.shields.io/badge/FastAPI-10B981?style=plastic&logo=fastapi&logoColor=white"/>
@@ -56,9 +55,9 @@ I'm a passionate **Full-Stack & AI/ML Developer** from Lahore, Pakistan — buil
 <img src="https://img.shields.io/badge/JWT-F59E0B?style=plastic&logo=jsonwebtokens&logoColor=white"/>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=60&section=header&text=🤖%20AI%2FML%20%26%20Data%20Science&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
-</p>
+---
+
+## 🤖 AI/ML & Data Science
 
 <p>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white"/>
@@ -71,9 +70,9 @@ I'm a passionate **Full-Stack & AI/ML Developer** from Lahore, Pakistan — buil
 <img src="https://img.shields.io/badge/NLP-22C55E?style=plastic"/>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=60&section=header&text=🧠%20AI%20Engineering%20%26%20LLMs&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
-</p>
+---
+
+## 🧠 AI Engineering & LLMs
 
 <p>
 <img src="https://img.shields.io/badge/Anthropic_Claude-D97757?style=plastic&logo=anthropic&logoColor=white"/>
@@ -86,9 +85,9 @@ I'm a passionate **Full-Stack & AI/ML Developer** from Lahore, Pakistan — buil
 <img src="https://img.shields.io/badge/LangChain-1C1C1C?style=plastic&logoColor=white"/>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=60&section=header&text=🗄️%20Databases&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
-</p>
+---
+
+## 🗄️ Databases
 
 <p>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white"/>
@@ -99,9 +98,9 @@ I'm a passionate **Full-Stack & AI/ML Developer** from Lahore, Pakistan — buil
 <img src="https://img.shields.io/badge/SQL%20Server-A91D22?style=plastic&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=60&section=header&text=☁️%20DevOps%20%26%20Deployment&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
-</p>
+---
+
+## ☁️ DevOps & Deployment
 
 <p>
 <img src="https://img.shields.io/badge/Vercel-3B82F6?style=plastic&logo=vercel&logoColor=white"/>
@@ -113,6 +112,7 @@ I'm a passionate **Full-Stack & AI/ML Developer** from Lahore, Pakistan — buil
 <img src="https://img.shields.io/badge/GitHub-6E5494?style=plastic&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub%20Actions-2671E5?style=plastic&logo=githubactions&logoColor=white"/>
 </p>
+
 
 ## 📊 GitHub Stats
 <p align="center">
