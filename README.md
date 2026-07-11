@@ -18,7 +18,7 @@
 
 ## 💫 About Me
 
-I'm a passionate **Full-Stack & AI/ML Developer** from Lahore, Pakistan — building scalable web applications, AI-powered platforms, and intelligent developer tools.
+I'm a passionate **Full-Stack & AI/ML Developer** from Lahore, Pakistan building scalable web applications, AI-powered platforms, and intelligent developer tools.
 
 - 🔭 Working on: Scalable web apps & AI-powered platforms
 - 🤖 Experienced with: Machine Learning & AI Integration
