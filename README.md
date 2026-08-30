@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Danyal Ahmed</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full-Stack+MERN+Developer;AI+%2F+ML+Engineer;Next.js+%2B+FastAPI+Builder;Semantic+Search+%26+RAG+Systems;Computer+Vision+Developer;Turning+Ideas+Into+Products+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=34&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full-Stack+MERN+Developer;AI+%2F+ML+Engineer;Next.js+%2B+FastAPI+Builder;Semantic+Search+%26+RAG+Systems;Computer+Vision+Developer;Turning+Ideas+Into+Products+🚀" />
 </p>
 
 <p align="center">
@@ -13,19 +13,6 @@
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:danyalnadeem288@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="36" /></a>
 </p>
-
-
-
-## 💫 About Me
-
-I'm a passionate **Full-Stack & AI/ML Developer** from Lahore, Pakistan building scalable web applications, AI-powered platforms, and intelligent developer tools.
-
-- 🔭 Working on: Scalable web apps & AI-powered platforms
-- 🤖 Experienced with: Machine Learning & AI Integration
-- 🌱 Learning: Distributed Systems, MLOps & Advanced AI pipelines
-- 💬 Ask me about: Full Stack Dev, APIs, AI Integration & LLMs
-- 🤝 Open to: Web Apps, AI Tools & Open Source Collaboration
-- ⚡ Fun fact: I enjoy turning complex ideas into production ready software
 
 ---
 ## 🌐 Web Development
@@ -112,7 +99,6 @@ I'm a passionate **Full-Stack & AI/ML Developer** from Lahore, Pakistan building
 <img src="https://img.shields.io/badge/GitHub-6E5494?style=plastic&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub%20Actions-2671E5?style=plastic&logo=githubactions&logoColor=white"/>
 </p>
-
 
 ## 📊 GitHub Stats
 <p align="center">
