@@ -1,4 +1,4 @@
-<img width="46" height="47" alt="image" src="https://github.com/user-attachments/assets/c5f391d4-2c9e-4151-a43e-2554a7563161" /><img src="https://komarev.com/ghpvc/?username=Danyal-Nadeem&label=Profile%20Views&color=0e75b6&style=for-the-badge&base=0" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=Danyal-Nadeem&label=Profile%20Views&color=0e75b6&style=for-the-badge&base=0" alt="profile views" />
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" width="35" height="35" />, I'm Danyal Ahmed</h1>
 
