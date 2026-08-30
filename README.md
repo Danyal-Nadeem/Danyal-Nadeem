@@ -1,6 +1,6 @@
-<img src="https://komarev.com/ghpvc/?username=Danyal-Nadeem&label=Profile%20Views&color=0e75b6&style=for-the-badge&base=0" alt="profile views" />
+<img width="46" height="47" alt="image" src="https://github.com/user-attachments/assets/c5f391d4-2c9e-4151-a43e-2554a7563161" /><img src="https://komarev.com/ghpvc/?username=Danyal-Nadeem&label=Profile%20Views&color=0e75b6&style=for-the-badge&base=0" alt="profile views" />
 
-<h1 align="center">Hi 👋, I'm Danyal Ahmed</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" width="35" height="35" />, I'm Danyal Ahmed</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=34&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full-Stack+MERN+Developer;AI+%2F+ML+Engineer;Next.js+%2B+FastAPI+Builder;Semantic+Search+%26+RAG+Systems;Computer+Vision+Developer;Turning+Ideas+Into+Products+🚀" />
