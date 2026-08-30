@@ -101,18 +101,25 @@
 </p>
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Danyal-Nadeem&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
-</p>
+
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-stats.shion.dev/api?username=Danyal-Nadeem&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="100%" />
+
+</td>
+<td width="50%">
+
+<img src="https://github-readme-stats-pi-two-55.vercel.app/api/top-langs/?username=Danyal-Nadeem&theme=tokyonight&layout=compact&exclude_repo=School-management-system-OOP-Concepts-,Candy-crush-,Tic-Tac-Toe-Game-,Flying-Bird-Game-by-Using-Assembly-Language" width="100%" />
+
+</td>
+</tr>
+</table>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Danyal-Nadeem&theme=tokyonight&hide_border=false" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats-pi-two-55.vercel.app/api/top-langs/?username=Danyal-Nadeem&theme=tokyonight&layout=compact&exclude_repo=School-management-system-OOP-Concepts-,Candy-crush-,Tic-Tac-Toe-Game-,Flying-Bird-Game-by-Using-Assembly-Language" />
-</p>
-
 ## 💬 Quote
 
 <p align="center">
